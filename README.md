@@ -20,3 +20,6 @@ npm run build
 cd到项目目录，然后
 npm install
 npm run dev
+
+
+最后附上项目的演示地址 https://dabeic.com/demo
