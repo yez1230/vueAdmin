@@ -14,8 +14,9 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+一个使用了layui的单页面模板和element ui的vue项目，主要目的是快速开发一些简单的网站
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+使用方法都一样，
+cd到项目目录，然后
+npm install
+npm run dev
